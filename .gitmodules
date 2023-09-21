@@ -1,3 +1,6 @@
 [submodule "CTMS-backend"]
 	path = CTMS-backend
 	url = https://github.com/edwardn-cke1110/CTMS-backend
+[submodule "CTMS-frontend"]
+	path = CTMS-frontend
+	url = https://github.com/MinhCong2510/CTMS-frontend
